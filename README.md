@@ -1,6 +1,9 @@
 # jupyter-notebook
 Python learning notes
 
+## Python 
+Cite: https://docs.python.org
+
 ## NumPy
 Cite: https://www.linkedin.com/learning/numpy-essential-training-1-foundations-of-numpy
 
